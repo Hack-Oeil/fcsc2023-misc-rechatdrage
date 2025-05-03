@@ -20,19 +20,6 @@ Origine : [Rechatdrage](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-r
 
 -----------
 
-## Connectez vous en WEBSSH
-> http://localhost
-
-#### tentez 
-> nc pwnduino.cyrhades.fr:4000
-
------------
-
-## Ou directement avec netcat
-> nc localhost:4000
-
-
------------
 
 
 ## Installation manuel
